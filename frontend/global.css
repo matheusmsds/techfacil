@@ -1,0 +1,13 @@
+/*Color Variables*/
+root {
+    --bs-darkblue: #113350;
+    --bs-realblue: #187fb3;
+    --bs-midblue: #a8d6e9;
+    --bs-pastelblue: #98d9ed;
+    --bs-grayblue: #beddef;
+    --bs-lightblue: #c8e4eb;
+    --bs-iceblue: #f8ffff;
+    --bs-sucess: #15c56b;
+    --bs-error: #c51515;
+}
+

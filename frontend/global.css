@@ -1,7 +1,12 @@
 /*Color Variables*/
 root {
-    --bs-darkblue: #113350;
-    --bs-realblue: #187fb3;
+    /* A coleta das variaveis não ficou ruim, 
+    aqui embaixo vai um exemplo melhor de nomenclatura */
+    --background: #faf8f4;
+    --dark-blue: #113350;
+    --primary-blue: #187fb3;
+
+
     --bs-midblue: #a8d6e9;
     --bs-pastelblue: #98d9ed;
     --bs-grayblue: #beddef;
@@ -10,4 +15,3 @@ root {
     --bs-sucess: #15c56b;
     --bs-error: #c51515;
 }
-

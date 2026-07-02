@@ -1,0 +1,17 @@
+/*Color Variables*/
+root {
+    /* A coleta das variaveis não ficou ruim, 
+    aqui embaixo vai um exemplo melhor de nomenclatura */
+    --background: #faf8f4;
+    --dark-blue: #113350;
+    --primary-blue: #187fb3;
+    --darker-text-color: #20293c;
+    --text-color: #576175;
+    --mid-blue: #a8d6e9;
+    --pastel-blue: #98d9ed;
+    --grayblue-header: #beddef;
+    --light-blue: #c8e4eb;
+    --bg-iced-blue: #f8ffff;
+    --sucess: #15c56b;
+    --error: #c51515;
+}

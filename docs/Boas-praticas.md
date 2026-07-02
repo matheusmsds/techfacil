@@ -24,6 +24,10 @@ Este documento visa definir algumas regras gerais durante o desenvolvimento do T
   - Pull requests devem ser sempre abertas para a branch 'dev'. **nunca** para 'main'. **Cuidado** pois por padrão o github as vezes coloca pra fazer o pull request para 'main'.
   - Os merges sempre serão aceitos por um único responsavel.
   - O responsavel é o único que pode fazer o merge do pull request. Portanto, **nunca** faça o merge do seu próprio pull request.
+  - **Criando uma branch**
+  Para manter padronizado podemos seguir a pratica de criar uma branch a partir da issue no github.
+
+  ![alt text](image.png)
 
 2. **Kanban**
 
